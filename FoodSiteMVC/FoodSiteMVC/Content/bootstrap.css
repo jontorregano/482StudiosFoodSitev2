@@ -784,8 +784,15 @@ pre code {
 }
 
 .row {
-  margin-right: -15px;
-  margin-left: -15px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
 }
 
 .row:before,
@@ -4934,7 +4941,7 @@ a.list-group-item.active > .badge,
   font-weight: 200;
   line-height: 2.1428571435;
   color: inherit;
-  background-color: #eeeeee;
+  background-color: #8B0000;
 }
 
 .jumbotron h1 {
