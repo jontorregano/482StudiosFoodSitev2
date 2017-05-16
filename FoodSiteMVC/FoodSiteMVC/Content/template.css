@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 
 /*! -----------------------------------------------------------------
 [Master Stylesheet]
@@ -3019,44 +3019,44 @@ body.off-canvas-sidebar-open .layout {
 
 .bg-dark,
 .bg-gradient {
-    color: #fff;
+    color: #8B0000;
 }
 
-.bg-dark h1,
-.bg-dark .h1,
-.bg-dark h2,
-.bg-dark .h2,
-.bg-dark h3,
-.bg-dark .h3,
-.bg-dark h4,
-.bg-dark .h4,
-.bg-dark h5,
-.bg-dark .h5,
-.bg-dark h6,
-.bg-dark .h6,
-.bg-dark blockquote,
-.bg-gradient h1,
-.bg-gradient .h1,
-.bg-gradient h2,
-.bg-gradient .h2,
-.bg-gradient h3,
-.bg-gradient .h3,
-.bg-gradient h4,
-.bg-gradient .h4,
-.bg-gradient h5,
-.bg-gradient .h5,
-.bg-gradient h6,
-.bg-gradient .h6,
-.bg-gradient blockquote {
-    color: #fff;
-}
+    .bg-dark h1,
+    .bg-dark .h1,
+    .bg-dark h2,
+    .bg-dark .h2,
+    .bg-dark h3,
+    .bg-dark .h3,
+    .bg-dark h4,
+    .bg-dark .h4,
+    .bg-dark h5,
+    .bg-dark .h5,
+    .bg-dark h6,
+    .bg-dark .h6,
+    .bg-dark blockquote,
+    .bg-gradient h1,
+    .bg-gradient .h1,
+    .bg-gradient h2,
+    .bg-gradient .h2,
+    .bg-gradient h3,
+    .bg-gradient .h3,
+    .bg-gradient h4,
+    .bg-gradient .h4,
+    .bg-gradient h5,
+    .bg-gradient .h5,
+    .bg-gradient h6,
+    .bg-gradient .h6,
+    .bg-gradient blockquote {
+        color: #8B0000;
+    }
 
-.bg-dark .counter .counter-title,
-.bg-dark .counter .counter-number,
-.bg-gradient .counter .counter-title,
-.bg-gradient .counter .counter-number {
-    color: #fff;
-}
+    .bg-dark .counter .counter-title,
+    .bg-dark .counter .counter-number,
+    .bg-gradient .counter .counter-title,
+    .bg-gradient .counter .counter-number {
+        color: #8B0000;
+    }
 
 .module-title {
     margin: 0 0 70px;
